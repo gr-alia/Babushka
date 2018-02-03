@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Babushka</string>
+    <string name="enter_phone_txt">Please enter you phone number to login</string>
+    <string name="code_hint">phone code</string>
+    <string name="phone_code">%s</string>
+    <string name="emoji_flag">%s</string>
+    <string name="next_btn">next</string>
+    <string name="enter_btn">enter</string>
+    <string name="login_code">code</string>
+    <string name="we_send_txt">we send you sms</string>
+
+    <string name="txt_phone_error">Please Enter phone number!</string>
+    <string name="dialog_no_inter_message">You have not active internet connection.</string>
+
+    <string name="home_item_drawer">Замовлення</string>
+    <string name="history_item_drawer">Історія</string>
+    <string name="exit_item_drawer">Вихід</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+</resources>
